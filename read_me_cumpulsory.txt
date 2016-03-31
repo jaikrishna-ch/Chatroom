@@ -12,6 +12,5 @@ If you enter a null you get an error , if you enter the name of a chatroon that 
 
 Next comes the user nickname entering page , after which he joins the group.
 
-If swing is used or applet then I know how to implement using sockets and ports using the java net lib and java url lib.
-But since my code is largely based on JSP and java script I'm confused at the moment and I would find a fix to this very soon.
+THE ABOVE RAR FILE CONTAINS THE ENTIRE ECLIPSE PROJECT AS YOU'VE ASKED FOR .
 
